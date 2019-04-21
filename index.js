@@ -9,3 +9,7 @@ function destructivelyPrependKitten(name){
   var prepend = kittens.unshift(name)
   return prepend
 }
+
+function destructivelyRemoveLastKitten(name){
+  
+}
